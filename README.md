@@ -37,5 +37,5 @@
 
 ---
 
-| https://raw.githubusercontent.com/N3M3ZIZ82/N3M3ZIZ82/b41692484a45dc59c3e7e7995673bbc0ca73e16c/github-snake-dark.svg |
+| ![GitHub Snake Animation](https://raw.githubusercontent.com/N3M3ZIZ82/N3M3ZIZ82/b41692484a45dc59c3e7e7995673bbc0ca73e16c/github-snake-dark.svg) |
 |---|
