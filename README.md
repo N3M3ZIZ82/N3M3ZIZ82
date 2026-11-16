@@ -1,16 +1,31 @@
+# 🕶️ ℕ𝟛𝕄𝟛ℤ𝕀ℤ⁸² 💻
+
+### Full Stack Developer & Digital Creator
+
+> **ＴＨＩＮＫ ＢＩＧ．**  
+> ＩＤＥＡＳ ＢＥＣＯＭＥ ＲＥＡＬＩＴＹ．**
+
+<div align="center">
+
+| [![GitHub](https://img.shields.io/badge/GitHub-N3M3ZIZ82-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N3M3ZIZ82) | [![TikTok](https://img.shields.io/badge/TikTok-%40%5Fskidr0w%5F-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_skidr0w_) |
+|---|---|
+
+</div>
+
+---
+
 ## Hi there 👋
 
-<!--
-**N3M3ZIZ82/N3M3ZIZ82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Ich bin **N3M3ZIZ⁸²**, Full Stack Developer & Digital Creator.
+  - Ich verbinde Code, Design und kreative Ideen zu digitalen
+    Erlebnissen mit eigener Identität.
 
-Here are some ideas to get you started:
+```yarn
+🔭 Mein Fokus:    Webentwicklung, digitale Projekte und kreative Inhalte.  
+🎨 Mein Anspruch: Durchdachte Funktionen und ein markantes Design.  
+💬 Austausch:     Über Code, Content und neue Ideen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Mein Motto:    THINK DEEPER. ANALYZE EVERYTHING. SECURE WHAT MATTERS.
+```
+
+---
