@@ -1,6 +1,6 @@
 ### 🕶️ ℕ𝟛𝕄𝟛ℤ𝕀ℤ⁸² 💻
 
-| <img width="1280" height="640" alt="banner github" src="https://github.com/user-attachments/assets/8a94857d-83c0-42f2-97e6-bd395ef42261" /> |
+| <img width="1280" height="640" alt="banner github2" src="https://github.com/user-attachments/assets/4592e348-8e8e-421c-820c-79507a05a236" /> |
 |---|
 
 ---
