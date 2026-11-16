@@ -1,18 +1,18 @@
 ### 🕶️ ℕ𝟛𝕄𝟛ℤ𝕀ℤ⁸² 💻
 
 ---
+<div align="center">
+| [![GitHub](https://img.shields.io/badge/GitHub-N3M3ZIZ82-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N3M3ZIZ82) | [![TikTok](https://img.shields.io/badge/TikTok-%40%5Fskidr0w%5F-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_skidr0w_) |
+|---|---|
+
+</div>
+
+---
 
 ### Full Stack Developer & Digital Creator
 
 > ＴＨＩＮＫ ＢＩＧ
 > ＩＤＥＡＳ ＢＥＣＯＭＥ ＲＥＡＬＩＴＹ
-
-<div align="center">
-
-| [![GitHub](https://img.shields.io/badge/GitHub-N3M3ZIZ82-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N3M3ZIZ82) | [![TikTok](https://img.shields.io/badge/TikTok-%40%5Fskidr0w%5F-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_skidr0w_) |
-|---|---|
-
-</div>
 
 ---
 
