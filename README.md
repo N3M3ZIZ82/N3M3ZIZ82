@@ -7,7 +7,8 @@
 
 <div align="center">
 
-[![Generate Snake Contribution Grid](https://github.com/N3M3ZIZ82/N3M3ZIZ82/actions/workflows/main.yml/badge.svg)](https://github.com/N3M3ZIZ82/N3M3ZIZ82/actions/workflows/main.yml)
+| [![Generate Snake Contribution Grid](https://github.com/N3M3ZIZ82/N3M3ZIZ82/actions/workflows/main.yml/badge.svg)](https://github.com/N3M3ZIZ82/N3M3ZIZ82/actions/workflows/main.yml) |
+|---|
 
 </div>
 
