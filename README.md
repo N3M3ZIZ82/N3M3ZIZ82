@@ -2,8 +2,8 @@
 
 ### Full Stack Developer & Digital Creator
 
-> **ＴＨＩＮＫ ＢＩＧ．**  
-> ＩＤＥＡＳ ＢＥＣＯＭＥ ＲＥＡＬＩＴＹ．**
+> ＴＨＩＮＫ ＢＩＧ
+> ＩＤＥＡＳ ＢＥＣＯＭＥ ＲＥＡＬＩＴＹ
 
 <div align="center">
 
